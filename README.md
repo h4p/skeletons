@@ -1,2 +1,4 @@
-# skeletons
-Useful templates to start projects with
+# Skeletons
+Useful templates to start projects with.
+
+
